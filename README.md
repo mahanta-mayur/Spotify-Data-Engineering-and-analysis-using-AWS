@@ -26,6 +26,8 @@ The journey begins with cleaning and preprocessing the Spotify dataset using Pyt
 
 The dataset includes a comprehensive collection of Spotify tracks, including metadata such as track popularity, artist details, and album information, aiming to explore musical preferences and streaming trends.
 
+Dataset Link - https://www.kaggle.com/datasets/tonygordonjr/spotify-dataset-2023
+
 ## Architecture Diagram
 
 ![Architecture Diagram](./architecture.png)
@@ -60,10 +62,15 @@ The dataset includes a comprehensive collection of Spotify tracks, including met
   - ![Part A](./Screenshots/query_5_popularity_of_tracks_changing_over_time_A.png)
   - ![Part B](./Screenshots/query_5_popularity_of_tracks_changing_over_time_B.png)
 
-### Data Visualization and Insights
+### Other Significant Screenshots
 
+- **Data Warehouse Data**: ![Data Warehouse](./Screenshots/data_warehouse_data.png)
 - **Visual ETL Job and Pipeline**: ![Visual ETL Pipeline](./Screenshots/Visual_ETL_job_and_pipeline.png)
-- **Data Warehouse Content**: ![Data Warehouse Data](./Screenshots/data_warehouse_data.png)
+- **Table in Athena Query Editor**: ![Athena Table](./Screenshots/table_in_ATHENA_query_editor.png)
+
+## Additional Resources
+
+- Detailed project documentation and data models are available upon request.
 
 ## Conclusion
 
